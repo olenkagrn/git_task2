@@ -7,4 +7,7 @@ Line 6 of firstFile
 Line 7 of firstFile
 Line 8 of firstFile
 Line 9 of firstFile
-Line 10 of firstFile
+Line 10 of firstFil
+
+modified
+2 lines
