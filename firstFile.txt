@@ -1,8 +1,8 @@
 Line 1 of firstFile
 Line 2 of firstFile
 Line 3 of firstFile
-Line 4 of firstFile
-Line 5 of firstFile
+Line 4 of
+Line 5  firstFile
 Line 6 of firstFile
 Line 7 of firstFile
 Line 8 of firstFile
